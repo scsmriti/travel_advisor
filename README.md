@@ -66,7 +66,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://travel-advisor-smc.netlify.app/]   (Go to this link for deployed version.)
+ [https://travel-advisor-smc.netlify.app/]   
 
 ### `npm run build` fails to minify
 
