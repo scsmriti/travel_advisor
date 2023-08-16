@@ -29,6 +29,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### deployed on netlify:
+Go to this link for deployed version:   [https://travel-advisor-smc.netlify.app/]
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -63,7 +66,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://travel-advisor-smc.netlify.app/](Go to this link for deployed version.)
+This section has moved here: [https://travel-advisor-smc.netlify.app/]   (Go to this link for deployed version.)
 
 ### `npm run build` fails to minify
 
